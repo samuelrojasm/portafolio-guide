@@ -7,13 +7,13 @@
 - [Proyectos: Cybersecurity](#-cybersecurity)
 - [Guías y Recursos](#guías-y-recursos)
 
-## ☁️ Cloud Engineering
+## ☁️ Proyectos: Cloud Engineering
 Proyectos con tecnologías como (AWS, Azure, Docker, Kubernetes):
 - [Ejemplos de creación de IaC en Microsoft Azure ](https://github.com/samuelrojasm/demo-terraform-azure)
 
 ---
 
-## 🔒 Cybersecurity
+## 🔒 Proyectos: Cybersecurity
 Proyectos de implementación de soluciones seguridad en infraestructura y nube:
 - []()
 
