@@ -7,6 +7,8 @@ Contiene una recopilación de mis proyectos y casos de estudio en las áreas de 
 ---
 
 ## 📑 Tabla de contenido
+- [Proyectos: Cloud Engineering](#️-cloud-engineering)
+- [Proyectos: Cybersecurity](#-cybersecurity)
 
 ---
 
@@ -18,10 +20,13 @@ Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para impl
 
 ### 🚀 Proyectos y Demos
 
+- [Ejemplos de creación de IaC en Microsoft Azure ](https://github.com/samuelrojasm/demo-terraform-azure)
+
 
 ---
 
 ### 📚 Guías y Recursos
+- [Terraform]()
 
 ---
 
@@ -39,7 +44,7 @@ Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para impl
 
 ---
 
-### 📚 Guías y recursos
+## 📚 Guías y recursos
 
 - [ISO 27002](https://www.iso.org/standard/75652.html)
 - [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
