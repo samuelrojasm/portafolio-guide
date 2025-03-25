@@ -1,16 +1,13 @@
 # 📂 Portafolio de Samuel Rojas
----
+
 Bienvenido a mi portafolio!
 
 Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos, guías y recursos.
 
----
 
 ## 📑 Tabla de contenido
-- [Proyectos: Cloud Engineering](#️-cloud-engineering)
-- [Proyectos: Cybersecurity](#-cybersecurity)
-
----
+- [Proyectos: Cloud Engineering](#-cloud-proyectos-y-demos)
+- [Proyectos: Cybersecurity](#-cybersecurity-proyectos-y-demos)
 
 ## ☁️ Cloud Engineering
 
@@ -18,14 +15,14 @@ Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para impl
 
 ---
 
-### 🚀 Proyectos y Demos
+### 🚀 Cloud: Proyectos y Demos
 
 - [Ejemplos de creación de IaC en Microsoft Azure ](https://github.com/samuelrojasm/demo-terraform-azure)
 
 
 ---
 
-### 📚 Guías y Recursos
+### 📚 Cloud: Guías y Recursos
 - [Terraform]()
 
 ---
@@ -38,13 +35,11 @@ Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para impl
 - **Gestión de riesgos y mitigación de vulnerabilidades**.
 - **Cumplimiento normativo** con un enfoque en la mejora continua de la seguridad.
 
----
 
-### 🚀 Proyectos y Demos
+### 🚀 Cybersecurity: Proyectos y Demos
 
----
 
-## 📚 Guías y recursos
+## 📚 Cybersecurity: Guías y recursos
 
 - [ISO 27002](https://www.iso.org/standard/75652.html)
 - [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
