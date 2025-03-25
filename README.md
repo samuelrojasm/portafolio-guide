@@ -10,12 +10,7 @@
 - [Proyectos: Cybersecurity](#-cybersecurity-proyectos-y-demos)
 
 ## ☁️ Cloud Engineering
-
-- Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para implementar soluciones escalables y seguras.
-
-
-### 🚀 Cloud: Proyectos y Demos
-
+Proyectos con tecnologías como (AWS, Azure, Docker, Kubernetes) para implementar soluciones escalables y seguras.
 - [Ejemplos de creación de IaC en Microsoft Azure ](https://github.com/samuelrojasm/demo-terraform-azure)
 
 
@@ -25,15 +20,8 @@
 ---
 
 ## 🔒 Cybersecurity
-
-- **Cloud Security Engineer** con experiencia en la implementación de soluciones seguras en infraestructura y nube (AWS). He trabajado en proyectos clave para:
-
-- **Protección de sistemas y redes**.
-- **Gestión de riesgos y mitigación de vulnerabilidades**.
-- **Cumplimiento normativo** con un enfoque en la mejora continua de la seguridad.
-
-
-### 🚀 Cybersecurity: Proyectos y Demos
+Proyectos de implementación de soluciones seguras en infraestructura y nube.
+- []()
 
 
 ### 📚 Cybersecurity: Guías y recursos
