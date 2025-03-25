@@ -1,26 +1,25 @@
 # 📂 Portafolio de Samuel Rojas
 
-Bienvenido a mi portafolio!
+¡Bienvenido a mi portafolio!
 
-Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos, guías y recursos.
+- Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos, guías y recursos.
 
 
 ## 📑 Tabla de contenido
 - [Proyectos: Cloud Engineering](#-cloud-proyectos-y-demos)
 - [Proyectos: Cybersecurity](#-cybersecurity-proyectos-y-demos)
 
+---
+
 ## ☁️ Cloud Engineering
 
-Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para implementar soluciones escalables y seguras.
+- Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para implementar soluciones escalables y seguras.
 
----
 
 ### 🚀 Cloud: Proyectos y Demos
 
 - [Ejemplos de creación de IaC en Microsoft Azure ](https://github.com/samuelrojasm/demo-terraform-azure)
 
-
----
 
 ### 📚 Cloud: Guías y Recursos
 - [Terraform]()
@@ -29,7 +28,7 @@ Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para impl
 
 ## 🔒 Cybersecurity
 
-**Cloud Security Engineer** con experiencia en la implementación de soluciones seguras en infraestructura y nube (AWS). He trabajado en proyectos clave para:
+- **Cloud Security Engineer** con experiencia en la implementación de soluciones seguras en infraestructura y nube (AWS). He trabajado en proyectos clave para:
 
 - **Protección de sistemas y redes**.
 - **Gestión de riesgos y mitigación de vulnerabilidades**.
@@ -46,10 +45,6 @@ Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para impl
 - [CIS (Center for Internet Security) Benchmarks](https://www.cisecurity.org/cis-benchmarks)
 - [MITRE | ATT&CK](https://attack.mitre.org/)
 - [Wireshark](https://www.wireshark.org/)
-
----
-
-
 
 ---
 
