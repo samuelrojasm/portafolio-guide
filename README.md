@@ -9,8 +9,6 @@
 - [Proyectos: Cloud Engineering](#-cloud-proyectos-y-demos)
 - [Proyectos: Cybersecurity](#-cybersecurity-proyectos-y-demos)
 
----
-
 ## ☁️ Cloud Engineering
 
 - Proyectos con tecnologías clave como (AWS, Azure, Docker, Kubernetes) para implementar soluciones escalables y seguras.
@@ -38,7 +36,7 @@
 ### 🚀 Cybersecurity: Proyectos y Demos
 
 
-## 📚 Cybersecurity: Guías y recursos
+### 📚 Cybersecurity: Guías y recursos
 
 - [ISO 27002](https://www.iso.org/standard/75652.html)
 - [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
