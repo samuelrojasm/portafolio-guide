@@ -15,7 +15,7 @@
 - [Ejemplos: Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Ejemplos: Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
 ### Guías Cloud
-- [Amazon EKS Resources](https://github.com/samuelrojasm/aws-eks-resources)
+- [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
 
 ---
