@@ -3,25 +3,31 @@
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
 
 ## 📚 Tabla de contenido
-- [Proyectos: Cloud Engineering](#️-cloud-engineering)
-- [Proyectos: Cybersecurity](#-cybersecurity)
-- [Guías y Recursos](#guías-y-recursos)
+- [Proyectos: Cloud Engineering](#proyectos-cloud)
+- [Proyectos: Cybersecurity](#proyectos-cybersecurity)
+- [Guías: Cloud Engineering](#guías-cloud)
+- [Guías: Cybersecurity](#guías-cybersecurity)
+- [Recursos Externos](#-recursos-externos)
 
-## ☁️ Proyectos: Cloud Engineering
-Proyectos con tecnologías como (AWS, Azure, Docker, Kubernetes):
+## ☁️ Cloud Engineering
+### Proyectos Cloud
 - [Demos de Docker](https://github.com/samuelrojasm/demo-docker)
 - [Ejemplos: Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Ejemplos: Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
+### Guías Cloud
+- [Amazon EKS Resources](https://github.com/samuelrojasm/aws-eks-resources)
 
 ---
 
-## 🔒 Proyectos: Cybersecurity
-Proyectos de implementación de soluciones seguridad en infraestructura y nube:
+## 🔒 Cybersecurity
+### Proyectos Cybersecurity
+- []()
+### Guías Cybersecurity
 - []()
 
 ---
 
-## 📖 Guías y Recursos
+## 📖 Recursos externos
 ### 📚 Cybersecurity: Frameworks
 - [ISO 27002](https://www.iso.org/standard/75652.html)
 - [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
