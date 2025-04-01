@@ -14,6 +14,7 @@
 - [Demos de Docker](https://github.com/samuelrojasm/demo-docker)
 - [Ejemplos: Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Ejemplos: Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
+- [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
 ### Guías Cloud
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
