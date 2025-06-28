@@ -1,31 +1,32 @@
-# 📂 Portafolio de Samuel Rojas
+## 📂 Portafolio de Samuel Rojas
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)](#)
+[![HCL](https://img.shields.io/badge/Language-HCL-blueviolet)](#)
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+
 ¡Bienvenido a mi portafolio!
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
 
-## 📚 Tabla de contenido
-- [Proyectos: Cloud Engineering](#proyectos-cloud)
-- [Proyectos: Cybersecurity](#proyectos-cybersecurity)
-- [Guías: Cloud Engineering](#guías-cloud)
-- [Guías: Cybersecurity](#guías-cybersecurity)
-- [Recursos Externos](#-recursos-externos)
-
 ## ☁️ Cloud Engineering
-### Proyectos Cloud
-- [Demos de Docker](https://github.com/samuelrojasm/demo-docker)
-- [Ejemplos: Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
-- [Ejemplos: Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
+### Cloud - Demos y laboratorios
+- [Demos: Terraform en Docker](https://github.com/samuelrojasm/demo_terraform_docker)
+- [Ejemplos: Comandos de Docker](https://github.com/samuelrojasm/demo-docker)
+- [Demos: Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
+- [Demos: Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
 - [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
-### Guías Cloud
+### Cloud - Guías
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
 
 ---
 
 ## 🔒 Cybersecurity
-### Proyectos Cybersecurity
-- []()
-### Guías Cybersecurity
-- []()
+### Cybersecurity - Guías
+- [Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/tree/main/Disaster_Recovery_and_Resiliency)
+- [AWS Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_dr_and_resiliency_strategies.md)
+- [Chaos Engineering en AWS](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_chaos_engineering.md)
+- [MITRE ATT&CK Framework - Notas](https://github.com/samuelrojasm/Cybersecurity-Notes/tree/main/MITRE_ATT%26CK)
 
 ---
 
@@ -40,7 +41,7 @@
 - [Wireshark](https://www.wireshark.org/)
 
 ### 🔧 Cloud: Tools
-- [Terraform]()
+- [Terraform](https://developer.hashicorp.com/terraform)
 
 ---
 
