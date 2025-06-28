@@ -4,6 +4,7 @@
 [![HCL](https://img.shields.io/badge/Language-HCL-blueviolet)](#)
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](#)
 
 ¡Bienvenido a mi portafolio!
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
