@@ -11,14 +11,21 @@
 
 ## ☁️ Cloud Engineering
 ### Cloud - Demos y laboratorios
-- [Demos: Terraform en Docker](https://github.com/samuelrojasm/demo_terraform_docker)
-- [Ejemplos: Comandos de Docker](https://github.com/samuelrojasm/demo-docker)
-- [Demos: Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
-- [Demos: Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
-- [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
+- Demos Terraform:
+	- [Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
+	- [Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
+	- Collaborate using HCP Terraform[](https://github.com/samuelrojasm/terraform_associate_notes/blob/main/examples/learn-terraform-aws-get-started)
+- Demos - iDocker:
+	- [Terraform en Docker](https://github.com/samuelrojasm/demo_terraform_docker)
+- Demos - AWS SDK
+	- [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
+- Labs
+	- [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
+	- [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 ### Cloud - Guías
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
+- [Comandos de Docker](https://github.com/samuelrojasm/demo-docker)
 
 ---
 
