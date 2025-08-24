@@ -31,7 +31,7 @@
 ---
 
 ## 🔒 Cybersecurity
-### Cybersecurity - Guías
+### ⚡ Cybersecurity - Guías
 - [Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/tree/main/Disaster_Recovery_and_Resiliency)
 - [AWS Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_dr_and_resiliency_strategies.md)
 - [Chaos Engineering en AWS](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_chaos_engineering.md)
@@ -40,16 +40,16 @@
 ---
 
 ## 📖 Recursos externos
-### 📚 Cybersecurity: Frameworks
+### ⚡ Cybersecurity: Frameworks
 - [ISO 27002](https://www.iso.org/standard/75652.html)
 - [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [CIS (Center for Internet Security) Benchmarks](https://www.cisecurity.org/cis-benchmarks)
 - [MITRE | ATT&CK](https://attack.mitre.org/)
 
-### 🛠️ Cybersecurity: Tools
+### ⚡ Cybersecurity: Tools
 - [Wireshark](https://www.wireshark.org/)
 
-### 🔧 Cloud: Tools
+### ⚡ Cloud: Tools
 - [Terraform](https://developer.hashicorp.com/terraform)
 
 ---
