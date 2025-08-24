@@ -10,7 +10,7 @@
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
 
 ## ☁️ Cloud Engineering
-### Cloud - Demos y laboratorios
+### ⚡Cloud - Demos y laboratorios
 #### Demos - Terraform:
 - [Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
@@ -24,7 +24,7 @@
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
 - [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 
-### Cloud - Guías
+### ⚡Cloud - Guías
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
 
