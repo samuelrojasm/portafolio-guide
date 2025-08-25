@@ -25,6 +25,7 @@
 - [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 
 ### ⚡Cloud - Guías
+- [Guia del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
 
