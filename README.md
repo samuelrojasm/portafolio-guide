@@ -24,7 +24,7 @@
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
 - [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 
-### ⚡Guía
+### ⚡Guías
 #### Cloud
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
