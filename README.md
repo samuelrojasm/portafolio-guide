@@ -24,10 +24,13 @@
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
 - [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 
-### ⚡Cloud - Guías
-- [Guia del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
+### ⚡Guía
+#### Cloud
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
+#### GitOps
+- [Guía del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
+- [Guía de Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
 
 ---
 
