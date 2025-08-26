@@ -31,6 +31,8 @@
 #### GitOps
 - [Guía del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
 - [Guía de Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
+#### Certificaciones
+- [Notas de estudio - Terraform Associate](https://github.com/samuelrojasm/terraform-associate-notes)
 
 ---
 
