@@ -10,32 +10,24 @@
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
 
 ## ☁️ Cloud Engineering
-### Demos - Terraform:
+### ⚙ Demos - Terraform:
 - [Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
 - [Collaborate using HCP Terraform](https://github.com/samuelrojasm/terraform_associate_notes/blob/main/examples/learn-terraform-aws-get-started)
 
----
-
-### Demos - Docker:
+### ⚙ Demos - Docker:
 - [Prácticas de uso de Docker](https://github.com/samuelrojasm/demo-docker)
 - [Terraform para Docker](https://github.com/samuelrojasm/demo_terraform_docker)
 
----
-
-### Demos - AWS SDK:
+### ⚙ Demos - AWS SDK:
 - [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
 
----
-
-### Mis laboratorios
+### ⚙ Mis laboratorios
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
 - [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 - [MVP de GitHub Actions + Terraform Integration](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
 
----
-
-### ⚡ Mis Guías
+### ⚙ Mis Guías
 #### Cloud
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
@@ -46,14 +38,14 @@
 #### Certificaciones
 - [Notas de estudio - Terraform Associate](https://github.com/samuelrojasm/terraform-associate-notes)
 
-### ⚡ Diario de Aprendizaje
+### ⚙ Diario de Aprendizaje
 - [Diario del Lab: GitHub Actions + Terraform + Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/tree/main/learning)
 - [Diario del lab: AWS Lambda + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world/tree/main/learning)
 
 ---
 
 ## 🔒 Cybersecurity
-### ⚡ Cybersecurity - Guías
+### ⚙ Cybersecurity - Guías
 - [Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/tree/main/Disaster_Recovery_and_Resiliency)
 - [AWS Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_dr_and_resiliency_strategies.md)
 - [Chaos Engineering en AWS](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_chaos_engineering.md)
@@ -62,16 +54,16 @@
 ---
 
 ## 📖 Recursos externos
-### ⚡ Cybersecurity: Frameworks
+### ⚙ Cybersecurity: Frameworks
 - [ISO 27002](https://www.iso.org/standard/75652.html)
 - [NIST(National Institute of Standards and Technology) Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [CIS (Center for Internet Security) Benchmarks](https://www.cisecurity.org/cis-benchmarks)
 - [MITRE | ATT&CK](https://attack.mitre.org/)
 
-### ⚡ Cybersecurity: Tools
+### ⚙ Cybersecurity: Tools
 - [Wireshark](https://www.wireshark.org/)
 
-### ⚡ Cloud: Tools
+### ⚙ Cloud: Tools
 - [Terraform](https://developer.hashicorp.com/terraform)
 
 ---
