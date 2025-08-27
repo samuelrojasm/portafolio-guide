@@ -10,30 +10,45 @@
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
 
 ## ☁️ Cloud Engineering
-### ⚡Cloud - Demos y laboratorios
-#### Demos - Terraform:
+### Demos - Terraform:
 - [Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
 - [Collaborate using HCP Terraform](https://github.com/samuelrojasm/terraform_associate_notes/blob/main/examples/learn-terraform-aws-get-started)
-#### Demos - Docker:
+
+---
+
+### Demos - Docker:
 - [Prácticas de uso de Docker](https://github.com/samuelrojasm/demo-docker)
 - [Terraform para Docker](https://github.com/samuelrojasm/demo_terraform_docker)
-#### Demos - AWS SDK:
+
+---
+
+### Demos - AWS SDK:
 - [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
-#### Labs
+
+---
+
+### Mis laboratorios
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
 - [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
+- [MVP de GitHub Actions + Terraform Integration](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
 
-### ⚡Guías
+---
+
+### ⚡ Mis Guías
 #### Cloud
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
 #### GitOps
 - [Guía del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
 - [Guía de Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
-- [GitHub Actions local con act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/blob/main/learning/cheatsheets/guia-github-actions-act.md)
+- [Guía GitHub Actions + Act(pruebas locales)](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/blob/main/learning/cheatsheets/guia-github-actions-act.md)
 #### Certificaciones
 - [Notas de estudio - Terraform Associate](https://github.com/samuelrojasm/terraform-associate-notes)
+
+### ⚡ Diario de Aprendizaje
+- [Diario del Lab: GitHub Actions + Terraform + Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/tree/main/learning)
+- [Diario del lab: AWS Lambda + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world/tree/main/learning)
 
 ---
 
