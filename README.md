@@ -32,6 +32,7 @@
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
 - [Guía de OAuth 2.0 Device Authorization Flow](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/oauth-device-flow.md)
+- [Guía de AWS Security Token Service](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/sts-deep-dive.md)
 #### GitOps
 - [Guía del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
 - [Guía de Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
