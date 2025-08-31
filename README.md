@@ -45,6 +45,7 @@
 ### ⚙ Diario de Aprendizaje
 - [Diario del Lab: GitHub Actions + Terraform + Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/tree/main/learning)
 - [Diario del lab: AWS Lambda + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world/tree/main/learning)
+- [Diario del lab: AWS IAM Identity Center](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/tree/main/learning)
 
 ---
 
