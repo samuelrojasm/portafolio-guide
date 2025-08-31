@@ -34,7 +34,7 @@
 - [Guía de OAuth 2.0 Device Authorization Flow](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/oauth-device-flow.md)
 - [Guía de AWS Security Token Service](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/sts-deep-dive.md)
 - [Guía de Permission Sets y AWS IAM Roles](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/permission-sets-deep-dive.md)
-- [Guía de integración de Autenticación AWS (SAML, OAuth 2.0 Device Flow y STS)](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/aws-identity-integration.m)
+- [Guía de integración de Autenticación AWS (SAML, OAuth 2.0 Device Flow y STS)](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/aws-identity-integration.md)
 #### GitOps
 - [Guía del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
 - [Guía de Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
