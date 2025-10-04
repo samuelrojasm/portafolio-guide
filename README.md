@@ -21,7 +21,7 @@
 - [Módulo - Crea rol IAM con OIDC para GitHub Actions](https://github.com/samuelrojasm/demo-terraform-aws/blob/main/modules/iam/iam-oidc-github-role/README.md)
 - [Ejemplo de uso de módulo OIDC-rol con asignación de Política](https://github.com/samuelrojasm/demo-terraform-aws/blob/main/modules/iam/iam-oidc-github-role/ejemplos/oidc-role-s3-policy/README.md)
 
-### Laboratorios Prácticos: GitOps — Flujo automatizado de despliegue con Terraform y GitHub Actions.
+### ⚙ Laboratorios Prácticos: GitOps — Flujo automatizado de despliegue con Terraform y GitHub Actions.
 - [GitHub Actions + Terraform + Testing local mediante Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
 - [Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
 
