@@ -10,6 +10,21 @@
 - Contiene una recopilación de mis proyectos y casos de estudio en las áreas de **Cloud Engineering** y **Cybersecurity**, incluye una variedad de ejemplos prácticos (demos,laboratorios, proyectos), guías y recursos.
 
 ## ☁️ Cloud Engineering
+### ⚙ Laboratorios Prácticos: Terraform en AWS
+- [Despliegue de Cluster EKS en AWS usando Terraform](https://github.com/samuelrojasm/lab-aws-eks-terraform-cluster-mpv)
+- [EC2 + VPC Endpoints Privados para SSM para acceder a EC2](https://github.com/samuelrojasm/demo-terraform-aws/tree/main/EC2/ec2-private-ssm-access)
+- [Amazon S3 - Bucket para guardar estado de Terraform](https://github.com/samuelrojasm/demo-terraform-aws/blob/main/s3-bucket/s3-terraform-state/README.md)
+- [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
+- [Configuración inicial de AWS IAM Identity Center-WIP](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/tree/main)
+#### Proveedor de identidad OIDC
+- [Proveedor de identidad OIDC de GitHub](https://github.com/samuelrojasm/demo-terraform-aws/blob/main/IAM/iam-openid-connect-github/README.md)
+- [Módulo - Crea rol IAM con OIDC para GitHub Actions](https://github.com/samuelrojasm/demo-terraform-aws/blob/main/modules/iam/iam-oidc-github-role/README.md)
+- [Ejemplo de uso de módulo OIDC-rol con asignación de Política](https://github.com/samuelrojasm/demo-terraform-aws/blob/main/modules/iam/iam-oidc-github-role/ejemplos/oidc-role-s3-policy/README.md)
+
+### Laboratorios Prácticos: GitOps — Flujo automatizado de despliegue con Terraform y GitHub Actions.
+- [GitHub Actions + Terraform + Testing local mediante Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
+- [Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
+
 ### ⚙ Demos - Terraform:
 - [Terraform en AWS](https://github.com/samuelrojasm/demo-terraform-aws)
 - [Terraform en Microsoft Azure](https://github.com/samuelrojasm/demo-terraform-azure)
@@ -22,36 +37,31 @@
 ### ⚙ Demos - AWS SDK:
 - [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
 
-### ⚙ Mis laboratorios
-- [Despliegue de Cluster EKS en AWS usando Terraform](https://github.com/samuelrojasm/lab-aws-eks-terraform-cluster-mpv)
-- [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
-- [Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
-- [GitHub Actions + Terraform + Testing local mediante Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
-
 ### ⚙ Mis Guías
-#### Cloud
+#### Guías - Cloud
 - [Amazon Elastic Kubernetes Service (EKS) Resources](https://github.com/samuelrojasm/aws-eks-resources)
 - [Kubernetes Resources](https://github.com/samuelrojasm/kubernetes-resources)
-- [Guía de OAuth 2.0 Device Authorization Flow](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/oauth-device-flow.md)
-- [Guía de AWS Security Token Service](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/sts-deep-dive.md)
-- [Guía de Permission Sets y AWS IAM Roles](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/permission-sets-deep-dive.md)
-- [Guía de integración de Autenticación AWS (SAML, OAuth 2.0 Device Flow y STS)](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/aws-identity-integration.md)
-#### GitOps
-- [Guía del flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
-- [Guía de Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
-- [Guía GitHub Actions + Act(pruebas locales)](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/blob/main/learning/cheatsheets/guia-github-actions-act.md)
-#### Certificaciones
+- [OAuth 2.0 Device Authorization Flow](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/oauth-device-flow.md)
+- [AWS STS (Security Token Service)](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/sts-deep-dive.md)
+- [Permission Sets y AWS IAM Roles](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/permission-sets-deep-dive.md)
+- [Integración de Autenticación AWS (SAML, OAuth 2.0 Device Flow y STS)](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/aws-identity-integration.md)
+- [¿Cómo funciona la Autenticación en AWS SSO:](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/blob/main/docs/aws-sso-authentication-flows.md)
+#### Guías - GitOps
+- [Flujo de trabajo de Trunk-based Development](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-trunk-based-development.md)
+- [Git Commit Convencional](https://github.com/samuelrojasm/lab-github-actions-mvp/blob/main/learning/cheatsheets/guia-git-commit-convencional.md)
+- [GitHub Actions + Act(pruebas locales)](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/blob/main/learning/cheatsheets/guia-github-actions-act.md)
+#### Guías - Certificaciones
 - [Notas de estudio - Terraform Associate](https://github.com/samuelrojasm/terraform-associate-notes)
 
 ### ⚙ Diario de Aprendizaje
-- [Diario del Lab: GitHub Actions + Terraform + Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/tree/main/learning)
-- [Diario del lab: AWS Lambda + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world/tree/main/learning)
-- [Diario del lab: AWS IAM Identity Center](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/tree/main/learning)
+- [GitHub Actions + Terraform + Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/tree/main/learning)
+- [AWS Lambda + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world/tree/main/learning)
+- [AWS IAM Identity Center](https://github.com/samuelrojasm/lab-aws-iam-identity-center-setup/tree/main/learning)
 
 ---
 
 ## 🔒 Cybersecurity
-### ⚙ Cybersecurity - Guías
+### ⚙ Guías - Cybersecurity
 - [Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/tree/main/Disaster_Recovery_and_Resiliency)
 - [AWS Disaster Recovery and Resiliency](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_dr_and_resiliency_strategies.md)
 - [Chaos Engineering en AWS](https://github.com/samuelrojasm/Cybersecurity-Notes/blob/main/Disaster_Recovery_and_Resiliency/aws_chaos_engineering.md)
