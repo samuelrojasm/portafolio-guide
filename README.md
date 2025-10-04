@@ -26,7 +26,7 @@
 - [Despliegue de Cluster EKS en AWS usando Terraform](https://github.com/samuelrojasm/lab-aws-eks-terraform-cluster-mpv)
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
 - [Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
-- [GitHub Actions + Terraform Integration con testing local mediante Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
+- [GitHub Actions + Terraform + Testing local mediante Act](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
 
 ### ⚙ Mis Guías
 #### Cloud
