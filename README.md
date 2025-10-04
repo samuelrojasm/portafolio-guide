@@ -23,9 +23,10 @@
 - [AWS SDK Notebooks con Python (boto3)](https://github.com/samuelrojasm/lab-aws-sdk-jupyter-notebook)
 
 ### ⚙ Mis laboratorios
+- [Despliegue de Cluster EKS en AWS usando Terraform](https://github.com/samuelrojasm/lab-aws-eks-terraform-cluster-mpv)
 - [AWS Lambda + API Gateway HTTP API + Terraform](https://github.com/samuelrojasm/lab-aws-lambda-hello-world)
-- [MVP de Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
-- [MVP de GitHub Actions + Terraform Integration](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
+- [Github Actions](https://github.com/samuelrojasm/lab-github-actions-mvp)
+- [GitHub Actions + Terraform Integration](https://github.com/samuelrojasm/lab-github-actions-terraform-mvp/)
 
 ### ⚙ Mis Guías
 #### Cloud
